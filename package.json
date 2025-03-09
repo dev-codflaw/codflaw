@@ -1,5 +1,5 @@
 {
-  "homepage": "https://dev-codflaw.github.io/codflaw/",
+  "homepage": "https://codflaw.com",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -14,6 +14,9 @@
     "@tailwindcss/vite": "^4.0.8",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.3.0",
+    "remark-breaks": "^4.0.0",
     "tailwindcss": "^4.0.8"
   },
   "devDependencies": {
